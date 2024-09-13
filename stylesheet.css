@@ -1,0 +1,16 @@
+.button{
+    background-color: rgb(247, 240, 240);
+    border: 50px;
+    color: rgb(243, 34, 243);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: rgb(243, 34, 243);
+    display: inline-block;
+    margin: 5px 2px;
+    cursor:pointer;
+    border-radius: 16px;
+border-color: blueviolet;
+}
+.Apply  {
+border-color: blueviolet;
+}
